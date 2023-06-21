@@ -1,6 +1,22 @@
-next js
-typescript
-headless ui
-rapid api https://rapidapi.com/apininjas/api/cars-by-api-ninjas/pricing
+<h2 align="center">CAR HUB</h1>
 
-https://www.imagin.studio/car-image-api
+### THE FRONTEND DESIGN FOR A CAR VIEWING WEBSITE WHERE ER GET DETAILS FROM 2 DIFFERENT API'S
+
+## YOU CAN SEARCH FOR A CAR BY THE NAME OF MANUFACTURER AND MODEL NAME. ALSO YOU CAN FILTER BY THE TYPE OF FUEL AND THE YEAR OF MANUFACTURE
+
+## THE SHOW MORE BUTTON WILL PROVIDE MORE CARS ONLY IF THERE ARE NO FILTER CRITERIAS PRESENT
+
+## THERE IS A BUG FOR NEXT JS 13.4 WHERE THE PAGE AUTOMATICALLY GOES TO THE START IF THE SEARCH PARAMETERS ARE UPDATED IN THE URL. LINK TO THE DISCUSSION : https://github.com/vercel/next.js/issues/49087
+
+## SITE IS LIVE AT: https://cars-swastik.netlify.app/
+## DEPLOYED USING [NETLIFY](https://www.netlify.com/)
+
+## SITE IS BUILD USING
+- [NEXT JS](https://nextjs.org/)
+- [TYPESCRIPT](https://www.typescriptlang.org/)
+- [TAILWIND CSS](https://tailwindcss.com/)
+- [HEADLESS UI](https://headlessui.com/)
+- [RAPID API](https://rapidapi.com/apininjas/api/cars-by-api-ninjas/pricing)
+- [IMAGIN STUDIOS API](https://www.imagin.studio/car-image-api)
+
+## IF YOU LIKE THIS PROJECT, DO NOT FORGET TO STAR THIS REPOSITORY 😉
